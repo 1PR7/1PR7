@@ -4,32 +4,33 @@ Welcome to my GitHub profile!
 
 I'm currently an undergraduate student majoring in **Computer Science** at **UENF** (State University of Northern Fluminense). I'm fascinated by technology, software development, and solving complex problems through programming. 
 
-Feel free to explore my repositories!
+I'm always looking to learn new technologies, practice my logic skills, and collaborate on interesting projects. Feel free to explore my repositories!
 
 <br>
 
-### 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JS" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Assembly" height="40" width="52" src="https://img.shields.io/badge/-Assembly-4D4D4D?style=flat-square&logo=assembly&logoColor=white">
-  <img align="center" alt="Prolog" height="40" width="52" src="https://img.shields.io/badge/-Prolog-74283C?style=flat-square&logo=prolog&logoColor=white">
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge" alt="Assembly">
+  <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge" alt="Prolog">
 </div>
 
 <br>
+<hr>
 
-### 📫 Let's connect!
+<h3>📫 Let's connect!</h3>
 
 <div>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:paulorobsonbeiralalmeida@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
