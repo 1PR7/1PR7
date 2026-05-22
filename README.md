@@ -10,21 +10,28 @@ Feel free to explore my repositories!
 
 ### 🛠️ Languages and Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge)
-![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
+<div style="display: inline_block">
+  <img align="center" alt="C" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C#" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JS" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Assembly" height="40" width="52" src="https://img.shields.io/badge/-Assembly-4D4D4D?style=flat-square&logo=assembly&logoColor=white">
+  <img align="center" alt="Prolog" height="40" width="52" src="https://img.shields.io/badge/-Prolog-74283C?style=flat-square&logo=prolog&logoColor=white">
+</div>
 
----
+<br>
 
 ### 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulorobsonbeiralalmeida@gmail.com)
-
+<div>
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:paulorobsonbeiralalmeida@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 <!--
 **1PR7/1PR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
