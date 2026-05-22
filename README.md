@@ -10,14 +10,14 @@ Feel free to explore my repositories!
 
 <h3>🛠️ Languages and Tools</h3>
 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Assembly" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x86asm/x86asm-original.svg">
-  <img align="center" alt="Prolog" height="30" src="https://img.shields.io/badge/Prolog-74283c?style=flat&logo=prolog&logoColor=white">
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge" alt="Assembly">
+  <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge" alt="Prolog">
 </div>
 
 <br>
@@ -33,6 +33,7 @@ Feel free to explore my repositories!
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
 
 <!--
 **1PR7/1PR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
