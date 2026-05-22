@@ -10,20 +10,20 @@ Feel free to explore my repositories!
 
 ### 🛠️ Languages and Tools
 
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=00599C&logo=c&logoColor=white&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=white&label=)
-![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=csharp&logoColor=white&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=python&logoColor=white&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&label=)
-![Assembly](https://img.shields.io/static/v1?style=for-the-badge&message=Assembly&color=4D4D4D&label=)
-![Prolog](https://img.shields.io/static/v1?style=for-the-badge&message=Prolog&color=74283C&label=)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge)
+![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge)
 
 ---
 
 ### 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&label=)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=D14836&logo=gmail&logoColor=white&label=)](mailto:paulorobsonbeiralalmeida@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulorobsonbeiralalmeida@gmail.com)
 
 
 <!--
