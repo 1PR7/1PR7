@@ -11,13 +11,13 @@ Feel free to explore my repositories!
 <h3>🛠️ Languages and Tools</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge" alt="Assembly">
-  <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge" alt="Prolog">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Assembly-%234D4D4D.svg?style=for-the-badge" alt="Assembly">
+  <img src="https://img.shields.io/badge/Prolog-%2374283C.svg?style=for-the-badge" alt="Prolog">
 </div>
 
 <br>
@@ -26,11 +26,11 @@ Feel free to explore my repositories!
 <h3>📫 Let's connect!</h3>
 
 <div>
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:paulorobsonbeiralalmeida@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
