@@ -4,35 +4,26 @@ Welcome to my GitHub profile!
 
 I'm currently an undergraduate student majoring in **Computer Science** at **UENF** (State University of Northern Fluminense). I'm fascinated by technology, software development, and solving complex problems through programming. 
 
-I'm always looking to learn new technologies, practice my logic skills, and collaborate on interesting projects. Feel free to explore my repositories!
+Feel free to explore my repositories!
 
 <br>
 
-<h3>🛠️ Languages and Tools</h3>
+### 🛠️ Languages and Tools
 
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge" alt="Assembly">
-  <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge" alt="Prolog">
-</div>
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=00599C&logo=c&logoColor=white&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=white&label=)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=csharp&logoColor=white&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=python&logoColor=white&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&label=)
+![Assembly](https://img.shields.io/static/v1?style=for-the-badge&message=Assembly&color=4D4D4D&label=)
+![Prolog](https://img.shields.io/static/v1?style=for-the-badge&message=Prolog&color=74283C&label=)
 
-<br>
-<hr>
+---
 
-<h3>📫 Let's connect!</h3>
+### 📫 Let's connect!
 
-<div>
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&label=)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=D14836&logo=gmail&logoColor=white&label=)](mailto:paulorobsonbeiralalmeida@gmail.com)
 
 <!--
 **1PR7/1PR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
